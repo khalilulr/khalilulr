@@ -2,7 +2,6 @@
 <h3 align="center">A passionate JavaScript backend developer from India</h3>
 
 - 🔭 I’m currently studying at **IIIT Vadodara ICD**
-- 👯 I'm a part-time backend developer **@Alcinius**
 - 📫 How to reach me: **khalilulmd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
