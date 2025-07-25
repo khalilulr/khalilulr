@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">DSA:</h3>
     <a href="https://www.geeksforgeeks.org/user/md_khalilul_rahman/" target="_blank">GeeksforGeeks</a> |
-    <a href="https://leetcode.com/u/mdkhalilulrahman/" target="_blank">LeetCode</a> |
+    <a href="https://leetcode.com/u/khalilul/" target="_blank">LeetCode</a> |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
