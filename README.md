@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Khalilul Rahman</h1>
+<h1 align="center">Hi , I'm Md Khalilul Rahman</h1>
 <h3 align="center">Backend Engineer | Node.js · NestJS · TypeScript · Microservices | IIIT Vadodara</h3>
 
 - I'm currently a **Backend Developer at DigitalXcode**, building a microservices-based healthcare marketplace platform
@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Featured Project — [RentKarRideKar](https://github.com/khalilulr/RentKarRideKar) · Multi-Vehicle & Advance Ride Booking Platform
+###  Featured Project — [RentKarRideKar](https://github.com/khalilulr/RentKarRideKar) · Multi-Vehicle & Advance Ride Booking Platform
 
 A microservices-based vehicle rental and ride-hailing platform that solves a gap on-demand apps ignore: **advance, multi-vehicle bookings** (e.g., 3 cars and a bus for one event) as a **single order** with one OTP, one payment, and one settlement.
 
